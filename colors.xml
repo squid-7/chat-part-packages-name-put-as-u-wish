@@ -1,0 +1,7 @@
+<color name="colorPrimary">#1976D2</color>
+<color name="colorPrimaryLight">#BBDEFB</color>
+<color name="colorGray02">#E0E0E0</color>
+<color name="colorGray01">#F5F5F5</color>
+<color name="white">#FFFFFF</color>
+<color name="black">#000000</color>
+//res/values/colors.xml (these must exist)
